@@ -1,0 +1,781 @@
+
+Example 0:
+Prediction: 1
+Explanation: <anchor.anchor_explanation.AnchorExplanation object at 0x7e3afc7b0250>
+Anchor: mhsf28a > 0.00 AND sidelf > 0.00 AND age1mj <= 13.00
+Precision: 1.00
+Coverage: 0.07
+Mean Absolute Error (MAE): 0.0
+Accuracy: 1.0
+Anchor test precision: 1.00
+Anchor test coverage: 0.01
+
+Example 1:
+Prediction: 0
+Explanation: <anchor.anchor_explanation.AnchorExplanation object at 0x7e3afc7b0df0>
+Anchor: mhsf28a <= 0.00 AND gain44 <= 0.00
+Precision: 0.99
+Coverage: 0.73
+Mean Absolute Error (MAE): 0.0
+Accuracy: 1.0
+Anchor test precision: 1.00
+Anchor test coverage: 0.69
+
+Example 2:
+Prediction: 1
+Explanation: <anchor.anchor_explanation.AnchorExplanation object at 0x7e3afc7b16f0>
+Anchor: mhsf28a > 0.00 AND sidelf > 0.00 AND c7cm6m <= 22.40
+Precision: 1.00
+Coverage: 0.08
+Mean Absolute Error (MAE): 0.0
+Accuracy: 1.0
+Anchor test precision: 1.00
+Anchor test coverage: 0.04
+
+Example 3:
+Prediction: 0
+Explanation: <anchor.anchor_explanation.AnchorExplanation object at 0x7e3afc7b13c0>
+Anchor: sidelf <= 0.00 AND pdborder <= 0.00
+Precision: 1.00
+Coverage: 0.28
+Mean Absolute Error (MAE): 0.0
+Accuracy: 1.0
+Anchor test precision: 1.00
+Anchor test coverage: 0.23
+
+Example 4:
+Prediction: 0
+Explanation: <anchor.anchor_explanation.AnchorExplanation object at 0x7e3afc7b0490>
+Anchor: mhsf28a <= 0.00 AND phosplf <= 0.00
+Precision: 0.98
+Coverage: 0.75
+Mean Absolute Error (MAE): 0.0
+Accuracy: 1.0
+Anchor test precision: 1.00
+Anchor test coverage: 0.73
+
+Example 5:
+Prediction: 0
+Explanation: <anchor.anchor_explanation.AnchorExplanation object at 0x7e3afc7b0dc0>
+Anchor: mhsf28a <= 0.00 AND gain44 <= 0.00
+Precision: 1.00
+Coverage: 0.74
+Mean Absolute Error (MAE): 0.0
+Accuracy: 1.0
+Anchor test precision: 1.00
+Anchor test coverage: 0.69
+
+Example 6:
+Prediction: 0
+Explanation: <anchor.anchor_explanation.AnchorExplanation object at 0x7e3afc7b0340>
+Anchor: mhsf28a <= 0.00 AND gain44 <= 0.00
+Precision: 0.99
+Coverage: 0.74
+Mean Absolute Error (MAE): 0.0
+Accuracy: 1.0
+Anchor test precision: 1.00
+Anchor test coverage: 0.69
+
+Example 7:
+Prediction: 0
+Explanation: <anchor.anchor_explanation.AnchorExplanation object at 0x7e3afc7b01f0>
+Anchor: mhsf28a <= 0.00 AND gain44 <= 0.00
+Precision: 0.99
+Coverage: 0.74
+Mean Absolute Error (MAE): 0.0
+Accuracy: 1.0
+Anchor test precision: 1.00
+Anchor test coverage: 0.69
+
+Example 8:
+Prediction: 0
+Explanation: <anchor.anchor_explanation.AnchorExplanation object at 0x7e3afc7b0400>
+Anchor: mhsf28a <= 0.00 AND gain44 <= 0.00
+Precision: 1.00
+Coverage: 0.73
+Mean Absolute Error (MAE): 0.0
+Accuracy: 1.0
+Anchor test precision: 1.00
+Anchor test coverage: 0.69
+
+Example 9:
+Prediction: 0
+Explanation: <anchor.anchor_explanation.AnchorExplanation object at 0x7e3afc7b0070>
+Anchor: mhsf28a <= 0.00 AND gain44 <= 0.00
+Precision: 1.00
+Coverage: 0.74
+Mean Absolute Error (MAE): 0.0
+Accuracy: 1.0
+Anchor test precision: 1.00
+Anchor test coverage: 0.69
+
+Example 10:
+Prediction: 0
+Explanation: <anchor.anchor_explanation.AnchorExplanation object at 0x7e3afc7b17e0>
+Anchor: mhsf28a <= 0.00 AND arstdrg > 10.00
+Precision: 0.99
+Coverage: 0.20
+Mean Absolute Error (MAE): 0.0
+Accuracy: 1.0
+Anchor test precision: 1.00
+Anchor test coverage: 0.11
+
+Example 11:
+Prediction: 0
+Explanation: <anchor.anchor_explanation.AnchorExplanation object at 0x7e3afc7b1150>
+Anchor: sidelf <= 0.00 AND pdborder <= 1.00
+Precision: 1.00
+Coverage: 0.53
+Mean Absolute Error (MAE): 0.0
+Accuracy: 1.0
+Anchor test precision: 0.94
+Anchor test coverage: 0.25
+
+Example 12:
+Prediction: 0
+Explanation: <anchor.anchor_explanation.AnchorExplanation object at 0x7e3afc7b19f0>
+Anchor: sidelf <= 0.00 AND gain44 <= 0.00
+Precision: 1.00
+Coverage: 0.75
+Mean Absolute Error (MAE): 0.0
+Accuracy: 1.0
+Anchor test precision: 1.00
+Anchor test coverage: 0.69
+
+Example 13:
+Prediction: 0
+Explanation: <anchor.anchor_explanation.AnchorExplanation object at 0x7e3afc7b0d60>
+Anchor: mhsf28a <= 0.00 AND gain44 <= 0.00
+Precision: 1.00
+Coverage: 0.73
+Mean Absolute Error (MAE): 0.0
+Accuracy: 1.0
+Anchor test precision: 1.00
+Anchor test coverage: 0.69
+
+Example 14:
+Prediction: 0
+Explanation: <anchor.anchor_explanation.AnchorExplanation object at 0x7e3afc7b17b0>
+Anchor: mhsf28a <= 0.00 AND gain44 <= 0.00
+Precision: 0.99
+Coverage: 0.74
+Mean Absolute Error (MAE): 0.0
+Accuracy: 1.0
+Anchor test precision: 1.00
+Anchor test coverage: 0.69
+
+Example 15:
+Prediction: 0
+Explanation: <anchor.anchor_explanation.AnchorExplanation object at 0x7e3afc7b0250>
+Anchor: mhsf28a <= 0.00 AND sidelf <= 0.00
+Precision: 0.99
+Coverage: 0.78
+Mean Absolute Error (MAE): 0.0
+Accuracy: 1.0
+Anchor test precision: 1.00
+Anchor test coverage: 0.73
+
+Example 16:
+Prediction: 0
+Explanation: <anchor.anchor_explanation.AnchorExplanation object at 0x7e3afc7b1540>
+Anchor: mhsf28a <= 0.00 AND sidelf <= 0.00
+Precision: 0.99
+Coverage: 0.79
+Mean Absolute Error (MAE): 0.0
+Accuracy: 1.0
+Anchor test precision: 1.00
+Anchor test coverage: 0.73
+
+Example 17:
+Prediction: 0
+Explanation: <anchor.anchor_explanation.AnchorExplanation object at 0x7e3afc7b16f0>
+Anchor: mhsf28a <= 0.00 AND gain44 <= 0.00
+Precision: 0.98
+Coverage: 0.74
+Mean Absolute Error (MAE): 0.0
+Accuracy: 1.0
+Anchor test precision: 1.00
+Anchor test coverage: 0.69
+
+Example 18:
+Prediction: 0
+Explanation: <anchor.anchor_explanation.AnchorExplanation object at 0x7e3afc7b13c0>
+Anchor: mhsf28a <= 0.00 AND job > 3.00
+Precision: 0.99
+Coverage: 0.27
+Mean Absolute Error (MAE): 0.0
+Accuracy: 1.0
+Anchor test precision: 0.92
+Anchor test coverage: 0.17
+
+Example 19:
+Prediction: 0
+Explanation: <anchor.anchor_explanation.AnchorExplanation object at 0x7e3afc7b0490>
+Anchor: mhsf28a <= 0.00 AND gain44 <= 0.00
+Precision: 0.99
+Coverage: 0.74
+Mean Absolute Error (MAE): 0.0
+Accuracy: 1.0
+Anchor test precision: 1.00
+Anchor test coverage: 0.69
+
+Example 20:
+Prediction: 0
+Explanation: <anchor.anchor_explanation.AnchorExplanation object at 0x7e3afc7b0dc0>
+Anchor: mhsf28a <= 0.00 AND gain44 <= 0.00
+Precision: 0.99
+Coverage: 0.75
+Mean Absolute Error (MAE): 0.0
+Accuracy: 1.0
+Anchor test precision: 1.00
+Anchor test coverage: 0.69
+
+Example 21:
+Prediction: 1
+Explanation: <anchor.anchor_explanation.AnchorExplanation object at 0x7e3afc7b0340>
+Anchor: mhsf28a > 0.00 AND gain44a > 0.00 AND suprob2 <= 2.00
+Precision: 1.00
+Coverage: 0.03
+Mean Absolute Error (MAE): 1.0
+Accuracy: 0.0
+Anchor test precision: 1.00
+Anchor test coverage: 0.04
+
+Example 22:
+Prediction: 0
+Explanation: <anchor.anchor_explanation.AnchorExplanation object at 0x7e3afc7b0400>
+Anchor: mhsf28a <= 0.00 AND gain44 <= 0.00
+Precision: 0.99
+Coverage: 0.74
+Mean Absolute Error (MAE): 0.0
+Accuracy: 1.0
+Anchor test precision: 1.00
+Anchor test coverage: 0.69
+
+Example 23:
+Prediction: 0
+Explanation: <anchor.anchor_explanation.AnchorExplanation object at 0x7e3afc7b17e0>
+Anchor: mhsf28a <= 0.00 AND gain44 <= 0.00
+Precision: 1.00
+Coverage: 0.73
+Mean Absolute Error (MAE): 0.0
+Accuracy: 1.0
+Anchor test precision: 1.00
+Anchor test coverage: 0.69
+
+Example 24:
+Prediction: 0
+Explanation: <anchor.anchor_explanation.AnchorExplanation object at 0x7e3afc7b1330>
+Anchor: mhsf28a <= 0.00 AND age1coc <= -3.00
+Precision: 0.99
+Coverage: 0.27
+Mean Absolute Error (MAE): 0.0
+Accuracy: 1.0
+Anchor test precision: 1.00
+Anchor test coverage: 0.20
+
+Example 25:
+Prediction: 0
+Explanation: <anchor.anchor_explanation.AnchorExplanation object at 0x7e3afc7b0070>
+Anchor: mhsf28a <= 0.00 AND gain44 <= 0.00
+Precision: 0.99
+Coverage: 0.74
+Mean Absolute Error (MAE): 1.0
+Accuracy: 0.0
+Anchor test precision: 1.00
+Anchor test coverage: 0.69
+
+Example 26:
+Prediction: 0
+Explanation: <anchor.anchor_explanation.AnchorExplanation object at 0x7e3afc7b0df0>
+Anchor: sidelf <= 0.00 AND pdborder <= 1.00
+Precision: 1.00
+Coverage: 0.53
+Mean Absolute Error (MAE): 0.0
+Accuracy: 1.0
+Anchor test precision: 0.94
+Anchor test coverage: 0.25
+
+Example 27:
+Prediction: 0
+Explanation: <anchor.anchor_explanation.AnchorExplanation object at 0x7e3afc7b19f0>
+Anchor: mhsf28a <= 0.00 AND age1coc <= 17.00
+Precision: 0.99
+Coverage: 0.45
+Mean Absolute Error (MAE): 0.0
+Accuracy: 1.0
+Anchor test precision: 1.00
+Anchor test coverage: 0.07
+
+Example 28:
+Prediction: 0
+Explanation: <anchor.anchor_explanation.AnchorExplanation object at 0x7e3afc7b0d60>
+Anchor: mhsf28a <= 0.00 AND gain44 <= 0.00
+Precision: 0.99
+Coverage: 0.74
+Mean Absolute Error (MAE): 0.0
+Accuracy: 1.0
+Anchor test precision: 1.00
+Anchor test coverage: 0.69
+
+Example 29:
+Prediction: 0
+Explanation: <anchor.anchor_explanation.AnchorExplanation object at 0x7e3afc7b17b0>
+Anchor: mhsf28a <= 0.00 AND gain44 <= 0.00
+Precision: 0.99
+Coverage: 0.73
+Mean Absolute Error (MAE): 0.0
+Accuracy: 1.0
+Anchor test precision: 1.00
+Anchor test coverage: 0.69
+
+Example 30:
+Prediction: 0
+Explanation: <anchor.anchor_explanation.AnchorExplanation object at 0x7e3afc7b0250>
+Anchor: sidelf <= 0.00 AND depend > 4.00
+Precision: 1.00
+Coverage: 0.08
+Mean Absolute Error (MAE): 0.0
+Accuracy: 1.0
+Anchor test precision: 1.00
+Anchor test coverage: 0.01
+
+Example 31:
+Prediction: 0
+Explanation: <anchor.anchor_explanation.AnchorExplanation object at 0x7e3afc7b1540>
+Anchor: mhsf28a <= 0.00
+Precision: 0.95
+Coverage: 0.82
+Mean Absolute Error (MAE): 0.0
+Accuracy: 1.0
+Anchor test precision: 0.95
+Anchor test coverage: 0.86
+
+Example 32:
+Prediction: 0
+Explanation: <anchor.anchor_explanation.AnchorExplanation object at 0x7e3afc7b01f0>
+Anchor: mhsf28a <= 0.00 AND pdborder <= 2.00
+Precision: 0.97
+Coverage: 0.63
+Mean Absolute Error (MAE): 1.0
+Accuracy: 0.0
+Anchor test precision: 1.00
+Anchor test coverage: 0.18
+
+Example 33:
+Prediction: 0
+Explanation: <anchor.anchor_explanation.AnchorExplanation object at 0x7e3afc7b1570>
+Anchor: mhsf28a <= 0.00 AND gain44 <= 0.00
+Precision: 0.99
+Coverage: 0.75
+Mean Absolute Error (MAE): 0.0
+Accuracy: 1.0
+Anchor test precision: 1.00
+Anchor test coverage: 0.69
+
+Example 34:
+Prediction: 0
+Explanation: <anchor.anchor_explanation.AnchorExplanation object at 0x7e3afc7b0dc0>
+Anchor: mhsf28a <= 0.00 AND gain44 <= 0.00
+Precision: 0.99
+Coverage: 0.74
+Mean Absolute Error (MAE): 0.0
+Accuracy: 1.0
+Anchor test precision: 1.00
+Anchor test coverage: 0.69
+
+Example 35:
+Prediction: 0
+Explanation: <anchor.anchor_explanation.AnchorExplanation object at 0x7e3afc7b0b80>
+Anchor: sidelf <= 0.00 AND mhsf28a <= 0.00
+Precision: 0.99
+Coverage: 0.79
+Mean Absolute Error (MAE): 0.0
+Accuracy: 1.0
+Anchor test precision: 1.00
+Anchor test coverage: 0.73
+
+Example 36:
+Prediction: 1
+Explanation: <anchor.anchor_explanation.AnchorExplanation object at 0x7e3afc7b0340>
+Anchor: mhsf28a > 0.00 AND phosplf > 2.00 AND age1coc > 22.00
+Precision: 1.00
+Coverage: 0.01
+Mean Absolute Error (MAE): 0.0
+Accuracy: 1.0
+Anchor test precision: 1.00
+Anchor test coverage: 0.01
+
+Example 37:
+Prediction: 0
+Explanation: <anchor.anchor_explanation.AnchorExplanation object at 0x7e3afc7b1420>
+Anchor: mhsf28a <= 0.00 AND pdborder <= 0.00
+Precision: 0.99
+Coverage: 0.29
+Mean Absolute Error (MAE): 0.0
+Accuracy: 1.0
+Anchor test precision: 1.00
+Anchor test coverage: 0.21
+
+Example 38:
+Prediction: 1
+Explanation: <anchor.anchor_explanation.AnchorExplanation object at 0x7e3afc7b0d30>
+Anchor: sidelf > 0.00 AND phosplf > 0.00 AND gain44 > 0.00 AND age1coc > 20.00 AND pdborder > 5.00
+Precision: 1.00
+Coverage: 0.01
+Mean Absolute Error (MAE): 0.0
+Accuracy: 1.0
+Anchor test precision: 1.00
+Anchor test coverage: 0.01
+
+Example 39:
+Prediction: 0
+Explanation: <anchor.anchor_explanation.AnchorExplanation object at 0x7e3afc7b0bb0>
+Anchor: sidelf <= 0.00 AND pdborder <= 0.00
+Precision: 1.00
+Coverage: 0.28
+Mean Absolute Error (MAE): 0.0
+Accuracy: 1.0
+Anchor test precision: 1.00
+Anchor test coverage: 0.23
+
+Example 40:
+Prediction: 1
+Explanation: <anchor.anchor_explanation.AnchorExplanation object at 0x7e3afc7b1150>
+Anchor: sidelf > 0.00 AND phosplf > 2.00 AND alctype > -3.00
+Precision: 1.00
+Coverage: 0.04
+Mean Absolute Error (MAE): 0.0
+Accuracy: 1.0
+Anchor test precision: 1.00
+Anchor test coverage: 0.01
+
+Example 41:
+Prediction: 0
+Explanation: <anchor.anchor_explanation.AnchorExplanation object at 0x7e3afc7b0070>
+Anchor: mhsf28a <= 0.00
+Precision: 0.96
+Coverage: 0.82
+Mean Absolute Error (MAE): 0.0
+Accuracy: 1.0
+Anchor test precision: 0.95
+Anchor test coverage: 0.86
+
+Example 42:
+Prediction: 0
+Explanation: <anchor.anchor_explanation.AnchorExplanation object at 0x7e3afc7b0490>
+Anchor: mhsf28a <= 0.00
+Precision: 0.96
+Coverage: 0.82
+Mean Absolute Error (MAE): 0.0
+Accuracy: 1.0
+Anchor test precision: 0.95
+Anchor test coverage: 0.86
+
+Example 43:
+Prediction: 1
+Explanation: <anchor.anchor_explanation.AnchorExplanation object at 0x7e3afc7b17b0>
+Anchor: mhsf28a > 0.00 AND sidelf > 0.00 AND c7cm6m <= 22.40
+Precision: 1.00
+Coverage: 0.08
+Mean Absolute Error (MAE): 0.0
+Accuracy: 1.0
+Anchor test precision: 1.00
+Anchor test coverage: 0.04
+
+Example 44:
+Prediction: 0
+Explanation: <anchor.anchor_explanation.AnchorExplanation object at 0x7e3afc7b06d0>
+Anchor: sidelf <= 0.00 AND pdborder <= 1.00
+Precision: 0.99
+Coverage: 0.53
+Mean Absolute Error (MAE): 0.0
+Accuracy: 1.0
+Anchor test precision: 0.94
+Anchor test coverage: 0.25
+
+Example 45:
+Prediction: 0
+Explanation: <anchor.anchor_explanation.AnchorExplanation object at 0x7e3afc7b0d60>
+Anchor: mhsf28a <= 0.00 AND gain44 <= 0.00
+Precision: 0.99
+Coverage: 0.75
+Mean Absolute Error (MAE): 0.0
+Accuracy: 1.0
+Anchor test precision: 1.00
+Anchor test coverage: 0.69
+
+Example 46:
+Prediction: 0
+Explanation: <anchor.anchor_explanation.AnchorExplanation object at 0x7e3afc7b1330>
+Anchor: mhsf28a <= 0.00 AND gain44 <= 0.00
+Precision: 0.99
+Coverage: 0.73
+Mean Absolute Error (MAE): 0.0
+Accuracy: 1.0
+Anchor test precision: 1.00
+Anchor test coverage: 0.69
+
+Example 47:
+Prediction: 1
+Explanation: <anchor.anchor_explanation.AnchorExplanation object at 0x7e3afc7b1d20>
+Anchor: sidelf > 0.00 AND gain44a > 0.00 AND phosplf > 2.00
+Precision: 1.00
+Coverage: 0.04
+Mean Absolute Error (MAE): 0.0
+Accuracy: 1.0
+Anchor test precision: 1.00
+Anchor test coverage: 0.01
+
+Example 48:
+Prediction: 0
+Explanation: <anchor.anchor_explanation.AnchorExplanation object at 0x7e3afc7b01f0>
+Anchor: mhsf28a <= 0.00 AND gain44 <= 0.00
+Precision: 0.99
+Coverage: 0.74
+Mean Absolute Error (MAE): 0.0
+Accuracy: 1.0
+Anchor test precision: 1.00
+Anchor test coverage: 0.69
+
+Example 49:
+Prediction: 0
+Explanation: <anchor.anchor_explanation.AnchorExplanation object at 0x7e3afc7b0340>
+Anchor: mhsf28a <= 0.00
+Precision: 0.95
+Coverage: 0.81
+Mean Absolute Error (MAE): 0.0
+Accuracy: 1.0
+Anchor test precision: 0.95
+Anchor test coverage: 0.86
+
+Example 50:
+Prediction: 0
+Explanation: <anchor.anchor_explanation.AnchorExplanation object at 0x7e3afc7b1540>
+Anchor: mhsf28a <= 0.00 AND sidelf <= 0.00
+Precision: 0.99
+Coverage: 0.79
+Mean Absolute Error (MAE): 0.0
+Accuracy: 1.0
+Anchor test precision: 1.00
+Anchor test coverage: 0.73
+
+Example 51:
+Prediction: 0
+Explanation: <anchor.anchor_explanation.AnchorExplanation object at 0x7e3afc7b19f0>
+Anchor: mhsf28a <= 0.00 AND sidelf <= 0.00
+Precision: 0.99
+Coverage: 0.79
+Mean Absolute Error (MAE): 0.0
+Accuracy: 1.0
+Anchor test precision: 1.00
+Anchor test coverage: 0.73
+
+Example 52:
+Prediction: 0
+Explanation: <anchor.anchor_explanation.AnchorExplanation object at 0x7e3afc7b0d30>
+Anchor: mhsf28a <= 0.00 AND gain44 <= 0.00
+Precision: 0.98
+Coverage: 0.74
+Mean Absolute Error (MAE): 0.0
+Accuracy: 1.0
+Anchor test precision: 1.00
+Anchor test coverage: 0.69
+
+Example 53:
+Prediction: 0
+Explanation: <anchor.anchor_explanation.AnchorExplanation object at 0x7e3afc7b1570>
+Anchor: sidelf <= 0.00 AND mhsf28a <= 0.00
+Precision: 0.99
+Coverage: 0.79
+Mean Absolute Error (MAE): 0.0
+Accuracy: 1.0
+Anchor test precision: 1.00
+Anchor test coverage: 0.73
+
+Example 54:
+Prediction: 0
+Explanation: <anchor.anchor_explanation.AnchorExplanation object at 0x7e3afc7b0bb0>
+Anchor: sidelf <= 0.00 AND gain44 <= 0.00
+Precision: 0.98
+Coverage: 0.75
+Mean Absolute Error (MAE): 1.0
+Accuracy: 0.0
+Anchor test precision: 1.00
+Anchor test coverage: 0.69
+
+Example 55:
+Prediction: 0
+Explanation: <anchor.anchor_explanation.AnchorExplanation object at 0x7e3afc7b1150>
+Anchor: mhsf28a <= 0.00 AND gain44 <= 0.00
+Precision: 0.99
+Coverage: 0.74
+Mean Absolute Error (MAE): 0.0
+Accuracy: 1.0
+Anchor test precision: 1.00
+Anchor test coverage: 0.69
+
+Example 56:
+Prediction: 0
+Explanation: <anchor.anchor_explanation.AnchorExplanation object at 0x7e3afc7b0070>
+Anchor: mhsf28a <= 0.00 AND gain44 <= 0.00
+Precision: 0.99
+Coverage: 0.73
+Mean Absolute Error (MAE): 0.0
+Accuracy: 1.0
+Anchor test precision: 1.00
+Anchor test coverage: 0.69
+
+Example 57:
+Prediction: 0
+Explanation: <anchor.anchor_explanation.AnchorExplanation object at 0x7e3afc7b0490>
+Anchor: mhsf28a <= 0.00 AND pdborder <= 2.00
+Precision: 0.99
+Coverage: 0.64
+Mean Absolute Error (MAE): 0.0
+Accuracy: 1.0
+Anchor test precision: 1.00
+Anchor test coverage: 0.18
+
+Example 58:
+Prediction: 0
+Explanation: <anchor.anchor_explanation.AnchorExplanation object at 0x7e3afc7b17b0>
+Anchor: mhsf28a <= 0.00 AND gain44 <= 0.00
+Precision: 0.99
+Coverage: 0.73
+Mean Absolute Error (MAE): 0.0
+Accuracy: 1.0
+Anchor test precision: 1.00
+Anchor test coverage: 0.69
+
+Example 59:
+Prediction: 0
+Explanation: <anchor.anchor_explanation.AnchorExplanation object at 0x7e3afc7b06d0>
+Anchor: mhsf28a <= 0.00 AND phosplf <= 0.00
+Precision: 0.98
+Coverage: 0.76
+Mean Absolute Error (MAE): 0.0
+Accuracy: 1.0
+Anchor test precision: 1.00
+Anchor test coverage: 0.73
+
+Example 60:
+Prediction: 0
+Explanation: <anchor.anchor_explanation.AnchorExplanation object at 0x7e3afc7b0d60>
+Anchor: mhsf28a <= 0.00 AND gain44 <= 0.00
+Precision: 0.99
+Coverage: 0.74
+Mean Absolute Error (MAE): 0.0
+Accuracy: 1.0
+Anchor test precision: 1.00
+Anchor test coverage: 0.69
+
+Example 61:
+Prediction: 1
+Explanation: <anchor.anchor_explanation.AnchorExplanation object at 0x7e3afc7b1330>
+Anchor: mhsf28a > 0.00 AND sidelf > 0.00 AND age1mj <= 13.00
+Precision: 1.00
+Coverage: 0.06
+Mean Absolute Error (MAE): 0.0
+Accuracy: 1.0
+Anchor test precision: 1.00
+Anchor test coverage: 0.01
+
+Example 62:
+Prediction: 0
+Explanation: <anchor.anchor_explanation.AnchorExplanation object at 0x7e3afc7b0dc0>
+Anchor: mhsf28a <= 0.00 AND gain44 <= 0.00
+Precision: 1.00
+Coverage: 0.74
+Mean Absolute Error (MAE): 0.0
+Accuracy: 1.0
+Anchor test precision: 1.00
+Anchor test coverage: 0.69
+
+Example 63:
+Prediction: 0
+Explanation: <anchor.anchor_explanation.AnchorExplanation object at 0x7e3afc7b1420>
+Anchor: sidelf <= 0.00 AND mhsf28a <= 0.00
+Precision: 0.98
+Coverage: 0.78
+Mean Absolute Error (MAE): 0.0
+Accuracy: 1.0
+Anchor test precision: 1.00
+Anchor test coverage: 0.73
+
+Example 64:
+Prediction: 0
+Explanation: <anchor.anchor_explanation.AnchorExplanation object at 0x7e3afc7b17e0>
+Anchor: mhsf28a <= 0.00 AND gain44 <= 0.00
+Precision: 0.99
+Coverage: 0.74
+Mean Absolute Error (MAE): 0.0
+Accuracy: 1.0
+Anchor test precision: 1.00
+Anchor test coverage: 0.69
+
+Example 65:
+Prediction: 1
+Explanation: <anchor.anchor_explanation.AnchorExplanation object at 0x7e3afc7b0b80>
+Anchor: mhsf28a > 0.00 AND sidelf > 0.00 AND gs5a > -1.00
+Precision: 1.00
+Coverage: 0.05
+Mean Absolute Error (MAE): 0.0
+Accuracy: 1.0
+Anchor test precision: 1.00
+Anchor test coverage: 0.01
+
+Example 66:
+Prediction: 0
+Explanation: <anchor.anchor_explanation.AnchorExplanation object at 0x7e3afc7b1540>
+Anchor: mhsf28a <= 0.00 AND gain44 <= 0.00
+Precision: 0.99
+Coverage: 0.74
+Mean Absolute Error (MAE): 0.0
+Accuracy: 1.0
+Anchor test precision: 1.00
+Anchor test coverage: 0.69
+
+Example 67:
+Prediction: 0
+Explanation: <anchor.anchor_explanation.AnchorExplanation object at 0x7e3afc7b0bb0>
+Anchor: mhsf28a <= 0.00 AND gain44a <= 0.00
+Precision: 0.98
+Coverage: 0.79
+Mean Absolute Error (MAE): 1.0
+Accuracy: 0.0
+Anchor test precision: 0.98
+Anchor test coverage: 0.80
+
+Example 68:
+Prediction: 1
+Explanation: <anchor.anchor_explanation.AnchorExplanation object at 0x7e3afc7b13c0>
+Anchor: mhsf28a > 0.00 AND gain44 > 0.00 AND pdborder > 3.00 AND drgprb6 <= 2.00
+Precision: 1.00
+Coverage: 0.04
+Mean Absolute Error (MAE): 0.0
+Accuracy: 1.0
+Anchor test precision: 1.00
+Anchor test coverage: 0.01
+
+Example 69:
+Prediction: 0
+Explanation: <anchor.anchor_explanation.AnchorExplanation object at 0x7e3afc7b0340>
+Anchor: mhsf28a <= 0.00 AND sidelf <= 0.00
+Precision: 0.98
+Coverage: 0.78
+Mean Absolute Error (MAE): 0.0
+Accuracy: 1.0
+Anchor test precision: 1.00
+Anchor test coverage: 0.73
+
+Example 70:
+Prediction: 0
+Explanation: <anchor.anchor_explanation.AnchorExplanation object at 0x7e3afc7b1d20>
+Anchor: sidelf <= 0.00 AND mhsf28a <= 0.00
+Precision: 0.99
+Coverage: 0.79
+Mean Absolute Error (MAE): 0.0
+Accuracy: 1.0
+Anchor test precision: 1.00
+Anchor test coverage: 0.73
