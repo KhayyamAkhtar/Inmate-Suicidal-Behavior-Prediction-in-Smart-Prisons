@@ -1,0 +1,4 @@
+The python notebooks titled "Base Model and Anchor Executions" and "Ensemble Model Executions" both were made on Kaggle.com. 
+The first notebook executes models namely XGBoost, Random Forest, Decision Tree, Neural Network, CatBoost, Logistic Regression, Linear Regression on dataset for compartive analysis. SHAP is also used on XGBoost to find top contributing features for classification performances.
+Additionally, anchor explanatory rules are generated from XGBoost using SHAP top 27 features. 
+The second notebook executes an ensemble model of XGBoost and Random Forest on complete dataset, SHAP reduced dataset and anchor reduced dataset for comparison of performance results.
