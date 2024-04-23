@@ -7,4 +7,4 @@ The convergence of smart technologies and predictive modelling in prisons presen
 Authors:
 Khayyam Akhtar, Muhammad Usman Yaseen, Muhammad Imran, Sohaib Bin Altaf Khattak and Moustafa M. Nasralla
 
-![image]([https://user-images.githubusercontent.com/16319829/81180309-2b51f000-8fee-11ea-8a78-ddfe8c3412a7.png](https://zenodo.org/badge/736314738.svg))
+[![DOI](https://zenodo.org/badge/736314738.svg)](https://zenodo.org/doi/10.5281/zenodo.11046489)
