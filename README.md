@@ -6,3 +6,4 @@ The convergence of smart technologies and predictive modelling in prisons presen
 
 Authors:
 Khayyam Akhtar, Muhammad Usman Yaseen, Muhammad Imran, Sohaib Bin Altaf Khattak and Moustafa M. Nasralla
+![doi](https://github.com/KhayyamAkhtar/Inmate-Suicidal-Behavior-Prediction-in-Smart-Prisons/assets/23480905/9f1b037b-3f25-4796-b9c1-d3cb898accda)
